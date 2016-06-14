@@ -6,3 +6,5 @@ This is the pinteresting sample application for
 by [ELau]
 
 This is the first application written thru the course Ruby on Rails
+
+This is the end of Day 5
